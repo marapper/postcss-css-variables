@@ -1,17 +1,17 @@
 {
-  "name": "postcss-css-variables",
-  "version": "0.18.0",
+  "name": "postcss-css-variables-scoped",
+  "version": "0.19.0",
   "description": "PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation",
   "keywords": [
     "postcss",
     "css",
     "postcss-plugin"
   ],
-  "author": "Eric Eastwood <contact@ericeastwood.com> (http://ericeastwood.com/)",
+  "author": "Sergei Bondar <msnre@yandex.ru>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MadLittleMods/postcss-css-variables.git"
+    "url": "https://github.com/marapper/postcss-css-variables.git"
   },
   "dependencies": {
     "balanced-match": "^1.0.0",

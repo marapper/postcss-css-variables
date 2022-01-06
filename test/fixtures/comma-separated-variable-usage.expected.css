@@ -1,7 +1,4 @@
-.some-foo-namespace .foo {
-	color: red;
-}
-
-.some-bar-namespace .bar {
+/* Мы не используем дублирование */
+.some-foo-namespace .foo, .some-bar-namespace .bar {
 	color: blue;
 }

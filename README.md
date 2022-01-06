@@ -1,3 +1,7 @@
+Originally by Eric Eastwood <contact@ericeastwood.com> (http://ericeastwood.com/)
+
+Disabled comma separated selectors duplicating
+
 # PostCSS CSS Variables
 
 [![npm version](https://badge.fury.io/js/postcss-css-variables.svg)](http://badge.fury.io/js/postcss-css-variables) [![Build Status](https://travis-ci.org/MadLittleMods/postcss-css-variables.svg)](https://travis-ci.org/MadLittleMods/postcss-css-variables) [![Gitter](https://badges.gitter.im/MadLittleMods/postcss-css-variables.svg)](https://gitter.im/MadLittleMods/postcss-css-variables?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
